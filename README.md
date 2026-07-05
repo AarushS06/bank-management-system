@@ -1,4 +1,4 @@
-# 🏦 DFDC Bank Management System
+# 🏦 Bank Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
