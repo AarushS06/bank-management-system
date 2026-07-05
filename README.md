@@ -32,7 +32,7 @@
 
 ## 🔎 Overview
 
-**DFDC Bank Management System** is a menu-driven CLI application that simulates core banking operations. It's designed as a practical, hands-on project to demonstrate database integration, CRUD operations, and real-world application logic using Python and MySQL.
+**Bank Management System** is a menu-driven CLI application that simulates core banking operations. It's designed as a practical, hands-on project to demonstrate database integration, CRUD operations, and real-world application logic using Python and MySQL.
 
 ---
 
